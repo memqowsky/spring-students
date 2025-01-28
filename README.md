@@ -40,12 +40,3 @@ Aplikacja będzie dostępna pod adresem `http://localhost:8080`.
 ## Użytkowanie
 
 Aplikacja oferuje interfejs API REST do zarządzania danymi studentów. Możesz wykonywać operacje takie jak tworzenie nowego studenta, pobieranie listy studentów, aktualizacja danych studenta oraz usuwanie studenta.
-
-## Wkład
-
-Wszelkie uwagi, zgłoszenia błędów oraz propozycje usprawnień są mile widziane. Prosimy o otwieranie zgłoszeń (issues) lub tworzenie próśb o włączenie zmian (pull requests) w tym repozytorium.
-
-## Licencja
-
-Ten projekt jest licencjonowany na warunkach licencji MIT. Szczegółowe informacje znajdują się w pliku `LICENSE`.
-
